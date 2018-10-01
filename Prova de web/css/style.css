@@ -1,0 +1,69 @@
+*{
+  box-sizing: border-box
+}
+#container
+{
+  width: 1350px;
+  margin: 0 auto 0;
+}
+#img1
+{
+  width: 30px;
+  height:30px;
+float: left;
+}
+.acrp
+{
+  font-size: 30px;
+  border:1px solid black;
+  width: 30%;
+
+}
+#img2
+{
+  width: 33px;
+  height:33px;
+  float: left;
+}
+.inicio
+{
+  font-size: 30px;
+  border:1px solid black;
+  width: 30%;
+}
+#img3
+{
+  width: 33px;
+  height:33px;
+  float: left;
+}
+.tdprodut
+{
+  font-size: 30px;
+  border:1px solid black;
+  width: 30%;
+}
+#img4
+{
+  width: 33px;
+  height:33px;
+  float: left;
+}
+.entrar
+{
+  font-size: 30px;
+  border:1px solid black;
+  width: 30%;
+}
+#img5
+{
+  width: 33px;
+  height:33px;
+  float: left;
+}
+.carrinho
+{
+  font-size: 30px;
+  border:1px solid black;
+  width: 30%;
+}
