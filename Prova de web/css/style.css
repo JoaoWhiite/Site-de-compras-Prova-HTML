@@ -1,9 +1,10 @@
 *{
   box-sizing: border-box
 }
-#container
+.container
 {
-  width: 1350px;
+  padding: absolute;
+  width: 1320px;
   margin: 0 auto 0;
 }
 #img1
@@ -16,10 +17,10 @@ float: left;
 {
   font-size: 30px;
   border:1px solid black;
-  width: 30%;
+  width: 32%;
 
 }
-#img2
+.img2
 {
   width: 33px;
   height:33px;
@@ -29,41 +30,70 @@ float: left;
 {
   font-size: 30px;
   border:1px solid black;
-  width: 30%;
-}
-#img3
-{
-  width: 33px;
-  height:33px;
-  float: left;
+  width: 32%;
 }
 .tdprodut
 {
   font-size: 30px;
   border:1px solid black;
-  width: 30%;
-}
-#img4
-{
-  width: 33px;
-  height:33px;
-  float: left;
+  width: 32%;
 }
 .entrar
 {
   font-size: 30px;
   border:1px solid black;
-  width: 30%;
-}
-#img5
-{
-  width: 33px;
-  height:33px;
-  float: left;
+  width: 32%;
 }
 .carrinho
 {
   font-size: 30px;
   border:1px solid black;
-  width: 30%;
+  width: 32%;
+}
+#banner
+{
+  border: 2px solid black;
+ position: relative;
+ width: 100%;
+ bottom:0px;
+ right: 0px
+}
+.bemv
+{
+  font-size: 88px;
+  margin:0px 0px 0px 352px
+}
+#face
+{
+  width: 40%;
+  margin:30px 0px 0px 95px
+}
+#voltar
+{
+  width: 18px;
+  height:18px;
+ display:inline-block;
+}
+.voltar
+{
+    background-color:#CD5C5C;
+    font-size: 25px;
+    border:1px solid black;
+    width: 23%;
+    margin:80px 0px 0px 0px
+}
+#paginainic
+{
+  width: 33px;
+  height:33px;
+ display:inline-block
+}
+.paginainic
+{
+  background-color:#CD5C5C;
+  font-size: 25px;
+  border:1px solid black;
+  width: 23%;
+  margin:15px 0px 0px 0px;
+  display:inline-block
 }
