@@ -12,13 +12,17 @@
   width: 30px;
   height:30px;
 float: left;
+
 }
 .acrp
 {
   font-size: 30px;
   border:1px solid black;
-  width: 32%;
-
+  border-radius: 10px;
+  width: 31%;
+  background-color: #00BFFF;
+  margin-left: 34%;
+  margin-top: 14%
 }
 .img2
 {
@@ -30,25 +34,38 @@ float: left;
 {
   font-size: 30px;
   border:1px solid black;
-  width: 32%;
+  border-radius: 10px;
+  width: 31%;
+  background-color: #00BFFF;
+  margin-left: 34%;
+
 }
 .tdprodut
 {
   font-size: 30px;
   border:1px solid black;
-  width: 32%;
+  border-radius: 10px;
+  width: 31%;
+  background-color: #00BFFF;
+  margin-left: 34%
 }
 .entrar
 {
   font-size: 30px;
   border:1px solid black;
-  width: 32%;
+  border-radius: 10px;
+  width: 31%;
+  background-color: #00BFFF;
+  margin-left: 34%;
 }
 .carrinho
 {
   font-size: 30px;
   border:1px solid black;
-  width: 32%;
+  border-radius: 10px;
+  width: 31%;
+  background-color: #00BFFF;
+  margin-left: 34%
 }
 #banner
 {
@@ -80,7 +97,7 @@ float: left;
     font-size: 25px;
     border:1px solid black;
     width: 23%;
-    margin:80px 0px 0px 0px
+    margin:15px 0px 0px 0px
 }
 #paginainic
 {
@@ -94,6 +111,88 @@ float: left;
   font-size: 25px;
   border:1px solid black;
   width: 23%;
-  margin:15px 0px 0px 0px;
+  margin:80px 0px 0px 0px;
   display:inline-block
+}
+.vazio
+{
+  color: red;
+text-align: center;
+margin: 120px 0px 0px 0px;
+font-size: 70px;
+font-family:Impact
+}
+.pf
+{
+  color:#696969;
+  text-align: center;
+  font-size: 25px;
+  margin: 40px 0px 0px 0px;
+}
+#volts
+{
+  width: 18px;
+  height:18px;
+ display:inline-block;
+}
+.volts
+{
+    background-color: #87CEFF;
+    font-size: 25px;
+    border:1px solid black;
+    width: 23%;
+    margin:105px 0px 0px 250px;
+    display:inline-block
+}
+#inics
+{
+  width: 33px;
+  height:33px;
+ display:inline-block
+}
+.inics
+{
+  background-color: #87CEFF;
+  font-size: 25px;
+  border:1px solid black;
+  width: 23%;
+  margin:-31px 0px 0px 750px;
+  display:inline-block
+}
+.tds
+{
+  border:2px solid black;
+  width: 47%;
+  border-radius: 10px;
+  font-family: Arial Black;
+  font-size: 25px;
+  margin: 20px 0px 0px 0px
+}
+#vinho1
+{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 70px 0px 0px 50px;
+  width: 200px;
+  height: 200px;
+  background-color: #EEEED1
+}
+.msg
+{
+  font-size: 20px;
+  margin: 0px 0px 0px 51px;
+}
+#b1
+{
+  font-family: Comic Sans MS;
+  color: red
+}
+#b2
+{
+  font-family: Comic Sans MS;
+  color:Green
+}
+#b3
+{
+  margin-left: 25px
 }
