@@ -194,5 +194,214 @@ font-family:Impact
 }
 #b3
 {
-  margin-left: 25px
+  font-family: Comic Sans MS;
+  margin-left: 15px;
 }
+#b4
+{
+  font-family: Comic Sans MS;
+  color:black
+}
+a
+{
+  text-decoration: none;
+  color:black
+}
+.item
+{
+  font-size: 30px;
+  margin:15px 0px 0px 15px;
+  float: left;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #E6E6FA
+}
+#carri
+{
+  width: 30px;
+  height: 30px;
+  float: left
+}
+.desejo
+{
+  font-size: 25px;
+  margin: 70px 0px 0px 15px;
+}
+#compra1
+{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 70px 0px 0px 35px;
+  width: 200px;
+  height: 200px;
+  background-color: #EEEED1
+
+}
+.especi
+{
+  margin: -160px 0px 0px 237px;
+  border: 1px solid black;
+  width: 350px;
+  height: 115px;
+  background-color: #E6E6FA;
+  font-family: Comic Sans MS
+}
+#b5
+{
+  font-size: 40px;
+  margin-left: 35%;
+  color: #EE0000
+}
+.valor1
+{
+  font-size: 30px;
+  margin: 50px 0px 0px 31px
+}
+#b6
+{
+  margin: 0px 0px 0px 58px;
+  color: green
+}
+.comprar1
+{
+  font-size: 30px;
+  margin: 35px 0px 0px 20px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  width: 365px;
+  background-color: #E6E6FA;
+  font-family: Comic Sans MS
+}
+#comprar1
+{
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 70px 0px 0px 35px;
+  width: 200px;
+  height: 200px;
+  background-color: #EEEED1
+}
+.val1
+{
+  font-size: 25px;
+  margin: 10px 0px 0px 37px;
+
+}
+#b7
+{
+  color: green;
+  font-family: Arial Black
+
+}
+.quant
+{
+  margin: -27px 0px 0px 300px;
+}
+.pags
+{
+  margin: -29px 0px 0px 750px;
+  font-size: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 450px;
+  background-color: #EEEED1
+}
+.bolets
+{
+  margin: 10px 0px 0px 910px;
+}
+.cliquecomp
+{
+  font-size:30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 210px;
+  margin: 95px 0px 0px 35px;
+  background-color:red
+}
+.C
+{
+  font-size: 30px;
+  margin: 30px 0px 0px 28px;
+  color: #1C1C1C
+}
+.sucesso
+{
+  text-align: center;
+  font-size: 60px;
+  margin: 180px 0px 0px 0px;
+  color: red
+}
+.cont
+{
+  font-size: 25px;
+  text-align: center;
+  margin: 35px 0px 0px 0px;
+  color: #828282
+}
+.produt2
+{
+  margin: -353px 0px 0px 350px
+}
+.msg2
+{
+  font-size: 20px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b8
+{
+   margin: 0px 0px 0px 13px
+}
+#b9
+{
+  margin: 0px 0px 0px 8px;
+}
+#b10
+{
+  color:Green
+}
+.produt3
+{
+  margin: -326px 0px 0px 700px
+}
+
+.msg3
+{
+  font-size: 20px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b11
+{
+margin: 0px 0px 0px 0px
+}
+#b12
+{
+margin: 0px 0px 0px 8px;
+}
+#b13
+{
+  color:Green
+}
+.produt4
+{
+  margin: -326px 0px 0px 1060px
+}
+.msg4
+{
+  font-size: 19px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b14
+{
+margin: 0px 0px 0px 0px
+}
+#b15
+{
+margin: 0px 0px 0px 13px;
+}
+#b16
+{
+  color:Green
