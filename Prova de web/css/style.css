@@ -166,7 +166,8 @@ font-family:Impact
   border-radius: 10px;
   font-family: Arial Black;
   font-size: 25px;
-  margin: 20px 0px 0px 0px
+  margin: 20px 0px 0px 15px;
+  background-color: #70DBDB
 }
 #vinho1
 {
@@ -341,7 +342,7 @@ a
 }
 .produt2
 {
-  margin: -353px 0px 0px 350px
+  margin: -353px 0px 0px 329px
 }
 .msg2
 {
@@ -363,7 +364,7 @@ a
 }
 .produt3
 {
-  margin: -326px 0px 0px 700px
+  margin: -326px 0px 0px 690px
 }
 
 .msg3
@@ -386,7 +387,7 @@ margin: 0px 0px 0px 8px;
 }
 .produt4
 {
-  margin: -326px 0px 0px 1060px
+  margin: -326px 0px 0px 1042px
 }
 .msg4
 {
@@ -405,3 +406,110 @@ margin: 0px 0px 0px 13px;
 #b16
 {
   color:Green
+}
+.produt1
+{
+  margin-left: -30px
+}
+.produt5
+{
+  margin-left: -30px
+}
+.msg5
+{
+  font-size: 19px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b17
+{
+  margin:0px 0px 0px 30px
+}
+#b18
+{
+  margin: 0px 0px 0px 11px
+}
+#b19
+{
+  color:green
+}
+.produt6
+{
+  margin: -324px 0px 0px 329px
+}
+.msg6
+{
+  font-size: 19px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b20
+{
+  margin: 0px 0px 0px -2px
+}
+#b21
+{
+  margin: 0px 0px 0px 8px
+}
+#b22
+{
+  color: green
+}
+.produt7
+{
+    margin: -324px 0px 0px 690px
+}
+.msg7
+{
+  font-size: 19px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b23
+{
+  margin: 0px 0px 0px 0px;
+  color: red
+}
+#b24
+{
+  margin: 0px 0px 0px 15px
+}
+#b25
+{
+  margin: 0px 0px 0px -14px
+}
+#b26
+{
+  color: green
+}
+.produt8
+{
+    margin: -348px 0px 0px 1042px
+}
+.msg8
+{
+  font-size: 19px;
+  margin: 0px 0px 0px 51px;
+  font-family: Comic Sans MS
+}
+#b27
+{
+  margin: 0px 0px 0px -3.8px
+}
+#b28
+{
+  margin: 0px 0px 0px 13px
+}
+#b29
+{
+  color: green
+}
+.novs
+{
+  font-size: 25px;
+  margin:50px 0px 0px 30px;
+  border: 2px solid blue;
+  border-radius:10px;
+  width: 550px;
+  background-color: #70DBDB
+}
