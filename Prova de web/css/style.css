@@ -342,7 +342,9 @@ a
 }
 .produt2
 {
-  margin: -353px 0px 0px 329px
+
+ display: inline-block;
+ width: 25%
 }
 .msg2
 {
@@ -364,7 +366,9 @@ a
 }
 .produt3
 {
-  margin: -326px 0px 0px 690px
+
+  display: inline-block;
+  width: 25%
 }
 
 .msg3
@@ -387,7 +391,7 @@ margin: 0px 0px 0px 8px;
 }
 .produt4
 {
-  margin: -326px 0px 0px 1042px
+  display: inline-block
 }
 .msg4
 {
@@ -409,11 +413,13 @@ margin: 0px 0px 0px 13px;
 }
 .produt1
 {
-  margin-left: -30px
+  display: inline-block;
+  width: 25%
 }
 .produt5
 {
-  margin-left: -30px
+  display: inline-block;
+  width: 25%
 }
 .msg5
 {
@@ -435,7 +441,8 @@ margin: 0px 0px 0px 13px;
 }
 .produt6
 {
-  margin: -324px 0px 0px 329px
+  display: inline-block;
+  width: 25%
 }
 .msg6
 {
@@ -457,7 +464,8 @@ margin: 0px 0px 0px 13px;
 }
 .produt7
 {
-    margin: -324px 0px 0px 690px
+  display: inline-block;
+  width: 25%
 }
 .msg7
 {
@@ -484,7 +492,8 @@ margin: 0px 0px 0px 13px;
 }
 .produt8
 {
-    margin: -348px 0px 0px 1042px
+  display: inline-block;
+
 }
 .msg8
 {
